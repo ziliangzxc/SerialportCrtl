@@ -1,0 +1,3 @@
+include ':seriaportLib'
+include ':app'
+rootProject.name = "SeriportCtrl"
